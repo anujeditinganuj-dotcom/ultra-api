@@ -7,3 +7,4 @@ yt-dlp[default,curl-cffi]
 curl_cffi>=0.10,<0.14
 deep-translator>=1.11.4
 googletrans==4.0.0rc1
+langdetect>=1.0.9
